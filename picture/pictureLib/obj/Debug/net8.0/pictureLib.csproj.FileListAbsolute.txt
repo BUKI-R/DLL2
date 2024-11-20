@@ -1,0 +1,11 @@
+C:\Users\BUKI\source\repos\picture\pictureLib\bin\Debug\net8.0\pictureLib.deps.json
+C:\Users\BUKI\source\repos\picture\pictureLib\bin\Debug\net8.0\pictureLib.dll
+C:\Users\BUKI\source\repos\picture\pictureLib\bin\Debug\net8.0\pictureLib.pdb
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\pictureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\pictureLib.AssemblyInfoInputs.cache
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\pictureLib.AssemblyInfo.cs
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\pictureLib.csproj.CoreCompileInputs.cache
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\pictureLib.dll
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\refint\pictureLib.dll
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\pictureLib.pdb
+C:\Users\BUKI\source\repos\picture\pictureLib\obj\Debug\net8.0\ref\pictureLib.dll
