@@ -11,7 +11,7 @@
 
         public void Time()
         {
-                Console.WriteLine($"Сколько время дано:");
+                Console.WriteLine($"Сколько время дано в часах:");
                 double time = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine($"Сколько частей картины всего:");
                 double Max = Convert.ToDouble(Console.ReadLine());
@@ -19,7 +19,7 @@
                 double Min = Convert.ToDouble(Console.ReadLine());
             if (Min == 0)
             {
-                Console.WriteLine($"Сколько времи осталось: {time}");
+                Console.WriteLine($"Сколько времи осталось: {time}ч");
             }
             else if (Min > Max || Max == 0)
             {
@@ -34,7 +34,7 @@
             {
                 double a = (time / Max) * Min;
                 double b = time - a;
-                Console.WriteLine($"Сколько времи осталось: {b}");
+                Console.WriteLine($"Сколько времи осталось: {b}ч");
             }
         }
 
