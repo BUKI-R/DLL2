@@ -33,7 +33,8 @@
             else
             {
                 double a = (time / Max) * Min;
-                Console.WriteLine($"Сколько времи осталось: {a}");
+                double b = time - a;
+                Console.WriteLine($"Сколько времи осталось: {b}");
             }
         }
 
